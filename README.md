@@ -28,7 +28,7 @@ ___
 
 <!-- About This Repository -->
 # About This Repository
-This repository contains a custom made CAN-bus reader for a Volkswagen Polo. Collected data from the [CAN-bus](https://nl.wikipedia.org/wiki/Controller_Area_Network) is sent to [The Things Network](https://www.thethingsnetwork.org/) via [LoRa(WAN)](https://www.kpn.com/zakelijk/internet-of-things/lora-netwerk), from where the realtime-data is displayed using a [Datacake](https://datacake.co/) dashboard. <br>
+This repository contains a custom made CAN-bus reader for a Volkswagen Polo. Collected data from the [CAN-bus](https://nl.wikipedia.org/wiki/Controller_Area_Network) is sent to [The Things Network](https://www.thethingsnetwork.org/) via [LoRa(WAN)](https://www.kpn.com/zakelijk/internet-of-things/lora-netwerk) (using a LoRa gateway), from where the realtime-data is displayed using a [Datacake](https://datacake.co/) dashboard. <br>
 <br>
 This project was built using the [Arduino IDE](https://www.arduino.cc/en/software/), together with the [ESP32-TWAI-CAN](https://docs.arduino.cc/libraries/esp32-twai-can/) and [LoRaE5](https://github.com/SylvainMontagny/LoRaE5) libraries. <br>
 <br>
