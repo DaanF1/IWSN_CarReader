@@ -5,7 +5,7 @@
 <div align="center">
   <h1 align="center">Intelligent Wireless Sensor Networks</h1>
   <img width="700" src="https://github.com/DaanF1/IWSN-CarReader/blob/main/Images/Screenshot_end-product.png"/>
-  <img width="85" src="https://github.com/DaanF1/IWSN-CarReader/blob/main/Images/Screenshot_LoRa_gateway.png"/>
+  <img width="80" src="https://github.com/DaanF1/IWSN-CarReader/blob/main/Images/Screenshot_LoRa_gateway.png"/>
 </div>
 
 <!-- Divider -->
