@@ -17,7 +17,7 @@
 //see https://github.com/andresoliva/LoRa-E5/blob/main/examples/Grove-Wio-E5_basic/Grove-Wio-E5_basic.ino 
 #define FRAME_DELAY 20000 
 
-String devEUI = "2CF7F12042005622";
+String devEUI = "";
 
 // Configuration for ABP Activation Mode
 String devAddr = "00000000";
@@ -25,5 +25,5 @@ String nwkSKey = "00000000000000000000000000000000";
 String appSKey = "00000000000000000000000000000000";
 
 // Configuration for OTAA Activation Mode
-String appKey = "A7C314DA37AD4CDB16D1DEC23D55F2F9"; 
+String appKey = ""; 
 String appEUI = "8000000000000006";
